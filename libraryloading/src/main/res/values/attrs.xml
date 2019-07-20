@@ -1,0 +1,13 @@
+<resources>
+
+    <declare-styleable name="RotateLoadingProgressBarView">
+        <attr name="rotateLoadingProgressColor" format="color"/>
+        <attr name="rotateLoadingBorderWidth" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="Loading58ProgressBarView">
+        <attr name="squareColor" format="color"/>
+        <attr name="circleColor" format="color"/>
+        <attr name="triangleColor" format="color"/>
+    </declare-styleable>
+</resources>
